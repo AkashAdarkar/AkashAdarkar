@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash Adarkar</h1>
-<h3 align="center">Motivated recent graduate with a degree in computer science and a strong enthusiasm for software development. Proficient in Javascript and SQL, with a solid foundation in algorithm design. Seeking to contribute to a dynamic team and apply problem-solving skills in a collaborative environment.</h3>
+<h1 align="center">Hello , There</h1>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashadarkar" alt="akashadarkar" /></a> </p>-->
 
