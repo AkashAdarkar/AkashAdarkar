@@ -82,6 +82,7 @@
 <br clear="both">
 
 <!--<img src="https://raw.githubusercontent.com/AkashAdarkar/AkashAdarkar/output/snake.svg" alt="Snake animation" />-->
+[![An image of @akashadarkar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akashadarkar)](https://holopin.io/@akashadarkar)
 
 ###
 
