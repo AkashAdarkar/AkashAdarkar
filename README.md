@@ -56,54 +56,6 @@ I build backend systems using Python, Django and Flask — REST APIs, authentica
 
 ---
 
-## 🚀 Projects
-
-### [Blog Web App](https://github.com/AkashAdarkar/django-blog)
-`Django` `Python` `JavaScript` `MySQL`
-
-Full-stack blog platform with JWT-based authentication and role-based access control (RBAC). Built RESTful APIs using Django REST Framework for CRUD operations. MySQL for relational data modeling with optimized queries.
-
----
-
-### Crime Reporting App
-`Python` `Flask` `JavaScript` `MySQL` `Matplotlib`
-
-Crime reporting system with Flask backend and MySQL. Implemented Naïve Bayes algorithm for crime trend prediction with Matplotlib visualizations. Secured with AES encryption and role-based access control.
-
----
-
-## 💼 Experience
-
-**PAM & DAM Trainee — Hitachi Systems India** *(May 2025 – Present)*
-Resolving 15–20 daily tickets on ServiceNow for ARCON PAM and Trellix DAM at a banking client. Production RHEL Linux health checks, network-layer debugging, firewall port requests, REST API testing via Postman.
-
-**Software Engineer Intern — WebDevOpen** *(July 2024 – Jan 2025)*
-Built 3+ full-stack apps using MERN stack on Heroku. Designed RESTful APIs integrated with MySQL.
-
----
-
-## 🔐 Security Interests
-
-Alongside backend development, I have hands-on exposure to enterprise security tooling — Privileged Access Management (ARCON PAM), Database Activity Monitoring (Trellix), and basic security operations in a banking environment.
-
-<div>
-  <a href="https://tryhackme.com">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="tryhackme" />
-  </a>
-  <a href="https://app.hackthebox.com">
-    <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" height="30" alt="hackthebox" />
-  </a>
-</div>
-
----
-
-## 📜 Certifications
-
-- Python (Basic) — HackerRank
-- JavaScript (Intermediate) — HackerRank
-- SQL (Intermediate) — HackerRank
-
----
 
 ## 📫 Connect
 
