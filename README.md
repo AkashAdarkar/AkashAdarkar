@@ -2,7 +2,7 @@
 
 Python backend developer based in Mumbai, India.
 
-I build backend systems using Python, Django and Flask — REST APIs, authentication, database design. Currently at **Hitachi Systems India** (banking client), working with production Linux infrastructure, network debugging, and security tooling. Looking for **SDE1 roles in Python backend development**.
+I build backend systems using Python, Django and Flask — REST APIs, authentication, database design. Currently working with production Linux infrastructure, network debugging, and security tooling. Looking for **SDE1 roles in Python backend development**.
 
 ---
 
